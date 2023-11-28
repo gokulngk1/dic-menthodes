@@ -24,4 +24,10 @@ employee_info = {
 # print(shan)
 
 # # -----fromkeys()
+ 
+letter = {'a','e','i','o','u'}
+number = [1,2]
+
+vowles = dict.fromkeys(letter) 
+print(vowles)
 
